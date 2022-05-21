@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["epicrapbattle", "slender", [146, 113, 253]],
+		["Trespasser", "mands", [145, 66, 10]],
+		["No hed red", "goldDead", [255, 255, 255]]
+	],
+
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "Daddy Dearest",
+	"weekBefore": "tutorial",
+	"weekName": "Week 1",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

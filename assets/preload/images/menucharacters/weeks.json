@@ -1,0 +1,11 @@
+{
+	
+	"image": "weeks",
+	"position": [
+		0,
+		-25
+	],
+	"scale": 1,
+	"idle_anim": "weeks",
+	"confirm_anim": "weeks"
+}
